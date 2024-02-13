@@ -1,6 +1,6 @@
 # Uniswap Sniper Bot
 This is Uniswap sniper bot.
-For testing purposes, I created a USDC/WETH pair on the Ropsten Testnet and this bot sniped it. We will add more and more features.
+For testing purposes, I created a USDC/WETH pair on the Ropsten Testnet and this bot sniped it. I will add more and more features.
 Bots become faster, more accurate, and safer.
 
 ![](my_video.mov)
